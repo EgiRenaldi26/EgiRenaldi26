@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @EgiRenaldi26
-- 📫 How to reach me @egirenaldii0@gmail.com
+- 📫 How to reach me egirenaldii0@gmail.com
