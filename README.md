@@ -1,7 +1,4 @@
-# 🏄‍♂️ Egi Renaldi ~ <img src="https://www.codewars.com/users/andiahmadysx/badges/micro" alt="badge" />
-
-
-**`Only human(Developer/Weeabo/Rangers Green)`**
+# Egi Renaldi ~ />
 
 ## My favorite tools and technologies ⚙️
 
