@@ -1,4 +1,4 @@
-# Egi Renaldi ~ />
+# Egi Renaldi ~
 
 ## My favorite tools and technologies ⚙️
 
