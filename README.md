@@ -83,17 +83,18 @@
             <br>Docker
         </td>
         <td align="center" width="96">
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fid%2Fpng-dotxz&psig=AOvVaw0PTVk-OeDTuETI0T5xqMMB&ust=1715352848892000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjU_c3pgIYDFQAAAAAdAAAAABAE" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
             <br>Dart
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
             <br>Flutter
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
             <br>Firebase
         </td>
+        
     </tr>
 </table>
 
